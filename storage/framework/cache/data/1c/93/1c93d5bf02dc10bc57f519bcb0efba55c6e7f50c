@@ -1,0 +1,1267 @@
+9999999999s:119118:"<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="cache-control" content="no-siteapp">
+    <title>FREEKAN自动采集影视系统-免vip看全网影视-首页</title>
+    <meta name="keywords" content="vip,免费,解析">
+    <meta name="description" content="FREEKAN自动采集影视系统-免vip看全网影视-首页-全网vip免费看">
+    <link rel="stylesheet" href="/public/static/wapian/css/bootstrap.min.css"/>
+    <link href="/public/static/wapian/css/swiper.min.css" rel="stylesheet" type="text/css">
+    <link href="/public/static/wapian/css/iconfont.css" rel="stylesheet" type="text/css"/>
+    <link href="/public/static/wapian/css/iconfont2.css" rel="stylesheet" type="text/css"/>
+    <link href="/public/static/wapian/css/blackcolor.css" rel="stylesheet" type="text/css"/>
+    <link href="/public/static/wapian/css/style.min.css" rel="stylesheet" type="text/css"/>
+    <script type='text/javascript' src="/public/static/wapian/js/swiper.min.js"></script>
+    <script type='text/javascript' src="/public/static/wapian/js/system.js"></script>
+    <script src="/public/static/wapian/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/public/static/wapian/js/su.js"></script>
+    <script type="text/javascript" src="/public/static/wapian/js/lazyload.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/public/static/wapian/js/html5.js"></script><![endif]-->
+             <style>
+        #ys {
+            background: deepskyblue;
+            color: black;
+        }
+        .jkbtn{
+            background: deepskyblue;
+            color: black;
+        }
+    </style>
+</head>
+<body class="index">
+<div class="hy-head-menu">
+    <div class="container">
+        <div class="row">
+            <div class="item">
+                <div class="logo">
+                    <a class="hidden-sm hidden-xs" href="/"><img src="/public/static/wapian/images/logo.png" height="50px" width="150px"/></a>
+                </div>
+                <div class="search  hidden-sm">
+                    <div id="ff-search" role="search">
+                        <input class="form-control" placeholder="输入影片关键词..." type="text" id="ff-wd" name="wd" required="">
+                        <input type="submit" class="hide"><a href="javascript:" class="btns" title="搜索" id="sousuo"><i class="icon iconfont icon-search"></i></a>
+                    </div>
+                </div>
+                <ul class="menulist hidden-xs">
+                                                             <li id="nav-index"><a href="/tvlist/all/1.html">电视</a></li>
+                                         <li id="nav-index"><a href="/movielist/all/1.html">电影</a></li>
+                                         <li id="nav-index"><a href="/zylist/all/1.html">综艺</a></li>
+                                         <li id="nav-index"><a href="/dmlist/all/1.html">动漫</a></li>
+                                         <li id="nav-index"><a href="/zhibo.html">直播</a></li>
+                                                             <li id="nav-down"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="container">
+        <div class="row" style="margin-top:10px;">
+            
+        </div>
+        <div class="row">
+            <div class="hy-layout clearfix">
+                <div class="col-lg-7 col-md-6 col-sm-12">
+                    <div class="swiper-container hy-slide">
+                        <div class="swiper-wrapper">
+                                                                                      <div class="swiper-slide">
+                                <div class="hy-video-slide">
+                                    <a class="videopic"
+                                       href="http://www.yanshi.com/play/3.html"
+                                       title="明天的我和昨天的你约会"
+                                       style="padding-top: 60%; background: url(http://www.jdanzhan.com/vod/2017-06/5941e601d3ee6.jpg)  no-repeat; background-position:50% 50%; background-size: cover;">
+                                        <span class="title">明天的我和昨天的你约会</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                           
+                        </div>
+                        <div class="swiper-button-next hidden-xs">
+                            <i class="icon iconfont icon-right"></i>
+                        </div>
+                        <div class="swiper-button-prev hidden-xs">
+                            <i class="icon iconfont icon-back"></i>
+                        </div>
+                        <div class="swiper-pagination">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 col-sm-12 padding-0">
+                    <div class="hy-index-menu clearfix">
+                        <div class="item">
+                            <ul class="clearfix">
+                                <li><a href="/movielist/all/1.html"><i
+                                                class="icon iconfont icon-menu1 text-color"></i><span>最新电影</span></a>
+                                </li>
+                                <li><a href="/autocxlist/5/1.html"><i class="icon iconfont icon-ic_mymatch_ranking text-color"></i><span>抢先片源</span></a>
+                                </li>
+                                <li><a href="/tvlist/all/1.html"><i
+                                                class="icon iconfont icon-update text-color"></i><span>电视剧</span></a>
+                                </li>
+                                <li><a href="/ucenter.html"><i
+                                                class="icon iconfont icon-member1 text-color"></i><span>会员中心</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="hy-index-tags hidden-md clearfix">
+                        <div class="item">
+                            <ul class="clearfix">
+                                                                <li><a href="/movielist/103/1.html">喜剧</a></li>
+                                                                                                   <li><a href="/movielist/100/1.html">爱情</a></li>
+                                                                                                   <li><a href="/movielist/106/1.html">动作</a></li>
+                                                                                                   <li><a href="/movielist/102/1.html">恐怖</a></li>
+                                                                                                   <li><a href="/movielist/104/1.html">科幻</a></li>
+                                                                                                   <li><a href="/movielist/112/1.html">剧情</a></li>
+                                                                                                   <li><a href="/movielist/105/1.html">犯罪</a></li>
+                                                                                                   <li><a href="/movielist/113/1.html">奇幻</a></li>
+                                                              </ul>
+                        </div>
+                    </div>
+                    <div class="hy-right-qrcode hidden-sm hidden-xs">
+                        <div class="item">
+                            <dl class="clearfix">
+                                <dt><img src="https://ww1.sinaimg.cn/large/a15b4afegy1fmvhz1gq7kj20zk0zkn16.jpg"></dt>
+                                <dd>
+                                    <h4>扫描二维码关注看大片</h4>
+                                    <p class="text-muted">
+                                        也可以分享到朋友圈哦！
+                                    </p>
+                                    <p class="margin-0 text-muted">
+                                        http://www.yanshi.com/ </p>
+                                </dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="margin-top:10px;">
+                <marquee style="width: 100%;color: red;font-size: 20px">我觉得这是一个很好的网站</marquee>
+                </div>
+            </div>
+            <!--会员视频-->
+                        <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <h3 class="margin-0"><i class="icon iconfont icon-update text-color"></i>会员视频</h3>
+                    <ul class="pull-right">
+                        <li class="active"><a href="/viplist.html" class="text-muted">更多 <i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                </div>
+                <div class="clearfix">
+                    <div class="hy-video-list cleafix">
+                        <div class="item">
+                                                                                                <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/6.html" onclick="jilu(this)" title="环太平洋：雷霆再起" data-src="http://tupian.tupianzy.com/pic/upload/vod/2018-03-22/201803221521717237.jpg">
+                                            <span class="play hidden-xs"></span><span class="score">会员专属</span></a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/6.html" onclick="jilu(this)" src="http://tupian.tupianzy.com/pic/upload/vod/2018-03-22/201803221521717237.jpg" title="环太平洋：雷霆再起">环太平洋：雷霆再起</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/5.html" onclick="jilu(this)" title="黑豹" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg">
+                                            <span class="play hidden-xs"></span><span class="score">会员专属</span></a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/5.html" onclick="jilu(this)" src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg" title="黑豹">黑豹</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/3.html" onclick="jilu(this)" title="明日的我与昨日的你约会" data-src="http://www.jdanzhan.com/vod/2017-06/5941e601d3ee6.jpg">
+                                            <span class="play hidden-xs"></span><span class="score">会员专属</span></a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/3.html" onclick="jilu(this)" src="http://www.jdanzhan.com/vod/2017-06/5941e601d3ee6.jpg" title="明日的我与昨日的你约会">明日的我与昨日的你约会</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/4.html" onclick="jilu(this)" title="我脑中的橡皮擦" data-src="http://tupian.tupianzy.com/pic/upload/vod/2017-04-06/201704061491492572.jpg">
+                                            <span class="play hidden-xs"></span><span class="score">会员专属</span></a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/4.html" onclick="jilu(this)" src="http://tupian.tupianzy.com/pic/upload/vod/2017-04-06/201704061491492572.jpg" title="我脑中的橡皮擦">我脑中的橡皮擦</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                                        </div>
+                    </div>
+                </div>
+                <div class="hy-video-footer visible-xs clearfix">
+                    <a href="/viplist.html" class="text-muted">查看更多 <i
+                                class="icon iconfont icon-right pull-right"></i></a>
+                </div>
+            </div>
+                        <!--会员视频-->
+            <!--抢先看-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <h3 class="margin-0"><i class="icon iconfont icon-update text-color"></i> 抢先看</h3>
+                    <ul class="pull-right">
+                            <li class="active"><a href="/autocxlist/5/1.html" class="text-muted">更多 <i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                </div>
+                <div class="clearfix">
+                    <div class="hy-video-list cleafix">
+                        <div class="item">
+                                                                                                <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTQ0NjAuaHRtbA==.html" onclick="jilu(this)"  title="红海行动" data-src="http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511434859.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTQ0NjAuaHRtbA==.html" onclick="jilu(this)" data-src="http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511434859.jpg" title="红海行动">红海行动</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwNTUuaHRtbA==.html" onclick="jilu(this)"  title="低压槽：欲望之城" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520457270.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwNTUuaHRtbA==.html" onclick="jilu(this)" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520457270.jpg" title="低压槽：欲望之城">低压槽：欲望之城</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwNTMuaHRtbA==.html" onclick="jilu(this)"  title="战神纪" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519726014.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwNTMuaHRtbA==.html" onclick="jilu(this)" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519726014.jpg" title="战神纪">战神纪</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwMTIuaHRtbA==.html" onclick="jilu(this)"  title="暴力街区(2013" data-src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192302960.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTgwMTIuaHRtbA==.html" onclick="jilu(this)" data-src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192302960.jpg" title="暴力街区(2013">暴力街区(2013</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc5NzQuaHRtbA==.html" onclick="jilu(this)"  title="白骨夫人大战狼妖" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518075766.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc5NzQuaHRtbA==.html" onclick="jilu(this)" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518075766.jpg" title="白骨夫人大战狼妖">白骨夫人大战狼妖</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4ODMuaHRtbA==.html" onclick="jilu(this)"  title="三脚虎" data-src="http://ww1.sinaimg.cn/large/7d172de2gy1fqqbwttdlij205006kq30.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4ODMuaHRtbA==.html" onclick="jilu(this)" data-src="http://ww1.sinaimg.cn/large/7d172de2gy1fqqbwttdlij205006kq30.jpg" title="三脚虎">三脚虎</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4ODAuaHRtbA==.html" onclick="jilu(this)"  title="寻味秘盗" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519865642.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4ODAuaHRtbA==.html" onclick="jilu(this)" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519865642.jpg" title="寻味秘盗">寻味秘盗</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4NzYuaHRtbA==.html" onclick="jilu(this)"  title="绑架" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2462197205.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4NzYuaHRtbA==.html" onclick="jilu(this)" data-src="http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2462197205.jpg" title="绑架">绑架</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4NDAuaHRtbA==.html" onclick="jilu(this)"  title="超级警探" data-src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385173767.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4NDAuaHRtbA==.html" onclick="jilu(this)" data-src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385173767.jpg" title="超级警探">超级警探</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4MjYuaHRtbA==.html" onclick="jilu(this)"  title="48小时闯天关" data-src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506948704.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc4MjYuaHRtbA==.html" onclick="jilu(this)" data-src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506948704.jpg" title="48小时闯天关">48小时闯天关</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc3OTIuaHRtbA==.html" onclick="jilu(this)"  title="易经密码" data-src="http://ww1.sinaimg.cn/large/7d172de2gy1fqmys7ajewj205106g0vh.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc3OTIuaHRtbA==.html" onclick="jilu(this)" data-src="http://ww1.sinaimg.cn/large/7d172de2gy1fqmys7ajewj205106g0vh.jpg" title="易经密码">易经密码</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-3 col-xs-4">
+                                        <a class="videopic lazy" href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc3ODIuaHRtbA==.html" onclick="jilu(this)"  title="杀死琼" data-src="http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515761337.jpg">
+                                             <span class="play hidden-xs"></span>
+                                            <span class="score">抢先</span>
+                                        </a>
+                                        <div class="title">
+                                            <h5 class="text-overflow"><a href="/play/Lz9tPXZvZC1kZXRhaWwtaWQtMTc3ODIuaHRtbA==.html" onclick="jilu(this)" data-src="http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515761337.jpg" title="杀死琼">杀死琼</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                                                                        </div>
+                    </div>
+                </div>
+                <div class="hy-video-footer visible-xs clearfix">
+                    <a href="/autocxlist/5/1.html" class="text-muted">查看更多 <i
+                                class="icon iconfont icon-right pull-right"></i></a>
+                </div>
+            </div>
+            <!--抢先看-->
+            <!--电影-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <ul class="pull-right">
+                                                    <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/103/1.html" class="text-muted border-right">喜剧</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/100/1.html" class="text-muted border-right">爱情</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/106/1.html" class="text-muted border-right">动作</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/102/1.html" class="text-muted border-right">恐怖</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/104/1.html" class="text-muted border-right">科幻</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/112/1.html" class="text-muted border-right">剧情</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/105/1.html" class="text-muted border-right">犯罪</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/movielist/113/1.html" class="text-muted border-right">奇幻</a> /</li>
+                                                    <li class="active"><a href="/movielist/all/1.html" class="text-muted">更多<i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                    <h3 class="margin-0"><i class="icon iconfont icon-film text-color"></i>电影</h3>
+                </div>
+                <div class="clearfix">
+                                            <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxTG1aUkg0UjBqMFN4Lmh0bWw=.html" onclick="jilu(this)" title="唐人街探案2" data-src="https://p.ssl.qhimg.com/t0179bf7a60faa11069.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">6.9</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxTG1aUkg0UjBqMFN4Lmh0bWw=.html" onclick="jilu(this)"
+                                                             title="唐人街探案2"
+                                                             src="https://p.ssl.qhimg.com/t0179bf7a60faa11069.jpg">唐人街探案2</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hhbmlZeEg0UjBUM1RoLmh0bWw=.html" onclick="jilu(this)" title="杀破狼·贪狼" data-src="https://p.ssl.qhimg.com/t01cd109c1b357e9ad9.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">7.2</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hhbmlZeEg0UjBUM1RoLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="杀破狼·贪狼"
+                                                             src="https://p.ssl.qhimg.com/t01cd109c1b357e9ad9.jpg">杀破狼·贪狼</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhUHJZUkg0UW5INVR4Lmh0bWw=.html" onclick="jilu(this)" title="捉妖记2" data-src="https://p.ssl.qhimg.com/t0182dbb1560ec2e33a.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">5.1</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhUHJZUkg0UW5INVR4Lmh0bWw=.html" onclick="jilu(this)"
+                                                             title="捉妖记2"
+                                                             src="https://p.ssl.qhimg.com/t0182dbb1560ec2e33a.jpg">捉妖记2</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2VG1ZeEg0Um5INFNCLmh0bWw=.html" onclick="jilu(this)" title="深宫怨灵" data-src="https://p.ssl.qhimg.com/t01b6d56ed18c650c40.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">2.7</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2VG1ZeEg0Um5INFNCLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="深宫怨灵"
+                                                             src="https://p.ssl.qhimg.com/t01b6d56ed18c650c40.jpg">深宫怨灵</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hxZm1aa0Q1UW5uMVRCLmh0bWw=.html" onclick="jilu(this)" title="英雄本色" data-src="https://p.ssl.qhimg.com/t01fc7e5ca7b0fdff04.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">8.7</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hxZm1aa0Q1UW5uMVRCLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="英雄本色"
+                                                             src="https://p.ssl.qhimg.com/t01fc7e5ca7b0fdff04.jpg">英雄本色</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxYmthVUluUW5mM1RoLmh0bWw=.html" onclick="jilu(this)" title="末代皇帝" data-src="https://p.ssl.qhimg.com/t018634f30291477251.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">8.9</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxYmthVUluUW5mM1RoLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="末代皇帝"
+                                                             src="https://p.ssl.qhimg.com/t018634f30291477251.jpg">末代皇帝</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhZnBaaEg0UjBmNFRCLmh0bWw=.html" onclick="jilu(this)" title="维京：王者之战" data-src="https://p.ssl.qhimg.com/t0166d67fbbfd862ca2.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">5.8</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhZnBaaEg0UjBmNFRCLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="维京：王者之战"
+                                                             src="https://p.ssl.qhimg.com/t0166d67fbbfd862ca2.jpg">维京：王者之战</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxdmtaQkg0U0hiMVN4Lmh0bWw=.html" onclick="jilu(this)" title="特种使命之绿色军团" data-src="https://p.ssl.qhimg.com/d/dy_a469c448e9bdd82a698760feb076a47c.">
+                                <span class="play hidden-xs"></span>
+                                <span class="score"></span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dxdmtaQkg0U0hiMVN4Lmh0bWw=.html" onclick="jilu(this)"
+                                                             title="特种使命之绿色军团"
+                                                             src="https://p.ssl.qhimg.com/d/dy_a469c448e9bdd82a698760feb076a47c.">特种使命之绿色军团</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhWGtZaEgzUW5qN1VCLmh0bWw=.html" onclick="jilu(this)" title="闺蜜2" data-src="https://p.ssl.qhimg.com/t01b10d99e1b98c749f.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">2.7</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhWGtZaEgzUW5qN1VCLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="闺蜜2"
+                                                             src="https://p.ssl.qhimg.com/t01b10d99e1b98c749f.jpg">闺蜜2</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZxWG9aaEgxUTBuNVVSLmh0bWw=.html" onclick="jilu(this)" title="暴力街区" data-src="https://p.ssl.qhimg.com/t01fbecdfcb15035b54.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">6.9</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZxWG9aaEgxUTBuNVVSLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="暴力街区"
+                                                             src="https://p.ssl.qhimg.com/t01fbecdfcb15035b54.jpg">暴力街区</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhdm9ZUkg0UzBYM1NSLmh0bWw=.html" onclick="jilu(this)" title="特警云豹" data-src="https://p.ssl.qhimg.com/d/dy_fdd85cc4e011db8a40b9531c0d814ecb.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score"></span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhdm9ZUkg0UzBYM1NSLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="特警云豹"
+                                                             src="https://p.ssl.qhimg.com/d/dy_fdd85cc4e011db8a40b9531c0d814ecb.jpg">特警云豹</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhbm5ZeEg0U0hYMlR4Lmh0bWw=.html" onclick="jilu(this)" title="阿飞与阿基" data-src="https://p.ssl.qhimg.com/t01aeac6cdb27691aa0.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">7.7</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2dhbm5ZeEg0U0hYMlR4Lmh0bWw=.html" onclick="jilu(this)"
+                                                             title="阿飞与阿基"
+                                                             src="https://p.ssl.qhimg.com/t01aeac6cdb27691aa0.jpg">阿飞与阿基</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2YmtZeEg0UW5MNFNSLmh0bWw=.html" onclick="jilu(this)" title="破·局" data-src="https://p.ssl.qhimg.com/d/dy_e6ff108a71d79db283f813374789b126.">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">6.3</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2YmtZeEg0UW5MNFNSLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="破·局"
+                                                             src="https://p.ssl.qhimg.com/d/dy_e6ff108a71d79db283f813374789b126.">破·局</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2cm5haEg0UUhYMVNCLmh0bWw=.html" onclick="jilu(this)" title="明月几时有" data-src="https://p.ssl.qhimg.com/t01c79ecfd6099d0595.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">6.9</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Y2cm5haEg0UUhYMVNCLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="明月几时有"
+                                                             src="https://p.ssl.qhimg.com/t01c79ecfd6099d0595.jpg">明月几时有</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Zhdm5aQkg0U0hiMlNoLmh0bWw=.html" onclick="jilu(this)" title="杨戬传" data-src="https://p.ssl.qhimg.com/t01a5c2295628813d92.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score"></span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2Zhdm5aQkg0U0hiMlNoLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="杨戬传"
+                                                             src="https://p.ssl.qhimg.com/t01a5c2295628813d92.jpg">杨戬传</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hxUG1ZUkgzUzBUMlRoLmh0bWw=.html" onclick="jilu(this)" title="小萝莉的猴神大叔" data-src="https://p.ssl.qhimg.com/t0187e0b7096a610f6d.jpg">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">8.6</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hxUG1ZUkgzUzBUMlRoLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="小萝莉的猴神大叔"
+                                                             src="https://p.ssl.qhimg.com/t0187e0b7096a610f6d.jpg">小萝莉的猴神大叔</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhZnJZUkg0U0hiMlN4Lmh0bWw=.html" onclick="jilu(this)" title="东京流浪汉" data-src="https://p.ssl.qhimg.com/d/dy_fdec026d363db1f8bcf91fa7a3153430.">
+                                <span class="play hidden-xs"></span>
+                                <span class="score">7.0</span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2ZhZnJZUkg0U0hiMlN4Lmh0bWw=.html" onclick="jilu(this)"
+                                                             title="东京流浪汉"
+                                                             src="https://p.ssl.qhimg.com/d/dy_fdec026d363db1f8bcf91fa7a3153430.">东京流浪汉</a></h5>
+                            </div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hLWG1aUkg0U0hYMlVSLmh0bWw=.html" onclick="jilu(this)" title="寻龙秘藏" data-src="https://p.ssl.qhimg.com/d/dy_884e269a8956f3adfd9e735942333a35.">
+                                <span class="play hidden-xs"></span>
+                                <span class="score"></span>
+                            </a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9tL2hLWG1aUkg0U0hYMlVSLmh0bWw=.html" onclick="jilu(this)"
+                                                             title="寻龙秘藏"
+                                                             src="https://p.ssl.qhimg.com/d/dy_884e269a8956f3adfd9e735942333a35.">寻龙秘藏</a></h5>
+                            </div>
+                        </div>
+                                            <div class="hy-video-footer visible-xs clearfix">
+                        <a href="/movielist/all/1.html" class="text-muted">查看更多 <i
+                                    class="icon iconfont icon-right pull-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--电影-->
+            <!--电视剧-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <ul class="pull-right">
+                                                    <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/101/1.html" class="text-muted border-right">言情</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/105/1.html" class="text-muted border-right">伦理</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/109/1.html" class="text-muted border-right">喜剧</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/108/1.html" class="text-muted border-right">悬疑</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/111/1.html" class="text-muted border-right">都市</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/100/1.html" class="text-muted border-right">偶像</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/104/1.html" class="text-muted border-right">古装</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/tvlist/107/1.html" class="text-muted border-right">军事</a> /</li>
+                                                    <li class="active"><a href="/tvlist/all/1.html" class="text-muted">更多 <i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                    <h3 class="margin-0"><i class="icon iconfont icon-show text-color"></i>电视剧</h3>
+                </div>
+                <div class="clearfix">
+                                            <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFp1Y1g3bFJ6WHJNbi5odG1s.html" onclick="jilu(this)"
+                               title="下一站，别离"
+                               data-src="https://p.ssl.qhimg.com/d/dy_ca7457ac0e5d3ae2228e9793427739df."><span
+                                        class="play hidden-xs"></span><span class="score">更新至26集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFp1Y1g3bFJ6WHJNbi5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_ca7457ac0e5d3ae2228e9793427739df."
+                                                             onclick="jilu(this)">下一站，别离</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：于和伟 李小冉 邬君梅 姚奕辰 谈莎莎</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFJzYkg3bFJ6OHJOSC5odG1s.html" onclick="jilu(this)"
+                               title="远大前程"
+                               data-src="https://p.ssl.qhimg.com/t01c46dc8438689c358.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至48集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFJzYkg3bFJ6OHJOSC5odG1s.html" data-src="https://p.ssl.qhimg.com/t01c46dc8438689c358.jpg"
+                                                             onclick="jilu(this)">远大前程</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：陈思诚 袁弘 佟丽娅 郭采洁 赵立新</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlJ2YVg3bFJ6WHFNWC5odG1s.html" onclick="jilu(this)"
+                               title="魔都风云"
+                               data-src="https://p.ssl.qhimg.com/d/dy_31b814bba34477b50a248d245c3eafd4.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至38集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlJ2YVg3bFJ6WHFNWC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_31b814bba34477b50a248d245c3eafd4.jpg"
+                                                             onclick="jilu(this)">魔都风云</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：周冬雨 经超 任达华 小李琳 潘禹彤</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYkZ0YW43bFJ6WG9PWC5odG1s.html" onclick="jilu(this)"
+                               title="阳光下的法庭"
+                               data-src="https://p.ssl.qhimg.com/d/dy_9f12b89e349f0615978dfc18ef816fa0.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至27集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYkZ0YW43bFJ6WG9PWC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_9f12b89e349f0615978dfc18ef816fa0.jpg"
+                                                             onclick="jilu(this)">阳光下的法庭</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：王志飞 何冰 颜丙燕 刘之冰 瑛子</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9SYk5yYVg3bFJ6OG5NSC5odG1s.html" onclick="jilu(this)"
+                               title="三国机密之潜龙在渊"
+                               data-src="https://p.ssl.qhimg.com/d/dy_fe35a6fb09a0a7a1355d7fbac5e0f932."><span
+                                        class="play hidden-xs"></span><span class="score">更新至36集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9SYk5yYVg3bFJ6OG5NSC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_fe35a6fb09a0a7a1355d7fbac5e0f932."
+                                                             onclick="jilu(this)">三国机密之潜龙在渊</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：马天宇 韩东君 万茜 董洁 王阳明</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlp4YW43bFJ6WHRNbi5odG1s.html" onclick="jilu(this)"
+                               title="大西北剿匪记"
+                               data-src="https://p.ssl.qhimg.com/d/dy_afbf4ed3f9f790550e7a91a6a646d4dc.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至16集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlp4YW43bFJ6WHRNbi5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_afbf4ed3f9f790550e7a91a6a646d4dc.jpg"
+                                                             onclick="jilu(this)">大西北剿匪记</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：侯勇 宁静 单薇 蒋林静 何若鹤</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QYkp0Ykg3bFJ6NHBNbi5odG1s.html" onclick="jilu(this)"
+                               title="人生若如初相见"
+                               data-src="https://p.ssl.qhimg.com/d/dy_8981505a7bdeebcba019cea925e5009a."><span
+                                        class="play hidden-xs"></span><span class="score">50集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QYkp0Ykg3bFJ6NHBNbi5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_8981505a7bdeebcba019cea925e5009a."
+                                                             onclick="jilu(this)">人生若如初相见</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：韩东君 孙怡 徐正溪 郑罗茜 邹廷威</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RTFZxYW43bFJ6OG1NWC5odG1s.html" onclick="jilu(this)"
+                               title="南方有乔木"
+                               data-src="https://p.ssl.qhimg.com/d/dy_7e7ea56ec7445ae98d540592ed2a9a2b."><span
+                                        class="play hidden-xs"></span><span class="score">40集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RTFZxYW43bFJ6OG1NWC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_7e7ea56ec7445ae98d540592ed2a9a2b."
+                                                             onclick="jilu(this)">南方有乔木</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：陈伟霆 白百何 李现 白冰 张宥浩</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QYkpxYUg3bFJ6WHBOMy5odG1s.html" onclick="jilu(this)"
+                               title="北京女子图鉴"
+                               data-src="https://p.ssl.qhimg.com/d/dy_f32544270e9e9a3c7808ca361b3ea0c6."><span
+                                        class="play hidden-xs"></span><span class="score">更新至14集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QYkpxYUg3bFJ6WHBOMy5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_f32544270e9e9a3c7808ca361b3ea0c6."
+                                                             onclick="jilu(this)">北京女子图鉴</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：戚薇 陈瑾 肖雨雨 张檬 魏大勋</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9Rclp0Y0g3bFJ6OG1Obi5odG1s.html" onclick="jilu(this)"
+                               title="好久不见"
+                               data-src="https://p.ssl.qhimg.com/d/dy_5d28753bce618e20bb5ea35fea48c2e8.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">42集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9Rclp0Y0g3bFJ6OG1Obi5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_5d28753bce618e20bb5ea35fea48c2e8.jpg"
+                                                             onclick="jilu(this)">好久不见</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：杨子姗 郑恺 张国立 江珊 田雷</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9STFpzY0g3bFJ6WHNNSC5odG1s.html" onclick="jilu(this)"
+                               title="真爱的谎言之破冰者"
+                               data-src="https://p.ssl.qhimg.com/d/dy_64e4d34f240f56c69af1e3822bdabf36.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至19集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9STFpzY0g3bFJ6WHNNSC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_64e4d34f240f56c69af1e3822bdabf36.jpg"
+                                                             onclick="jilu(this)">真爱的谎言之破冰者</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：罗晋 潘之琳 张晨光 曹征 吕星辰</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTEZ2YjA3bFJ6WG9Obi5odG1s.html" onclick="jilu(this)"
+                               title="海上嫁女记"
+                               data-src="https://p.ssl.qhimg.com/d/dy_f03012ef3c40cb5bc7b690d9ffb0058e."><span
+                                        class="play hidden-xs"></span><span class="score">更新至45集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTEZ2YjA3bFJ6WG9Obi5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_f03012ef3c40cb5bc7b690d9ffb0058e."
+                                                             onclick="jilu(this)">海上嫁女记</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：王雷 蔡少芬 张檬 李心艾 樊霖锋</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RTEZ0Ylg3bFJ6WG9PSC5odG1s.html" onclick="jilu(this)"
+                               title="猎豺狼"
+                               data-src="https://p.ssl.qhimg.com/d/dy_fbebc0ece45e1c52e3323351047582ba.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">42集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RTEZ0Ylg3bFJ6WG9PSC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_fbebc0ece45e1c52e3323351047582ba.jpg"
+                                                             onclick="jilu(this)">猎豺狼</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：李宗翰 桑伟淋 刘波 张译文 丁冠中</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9SNGx0YjA3bFJ6WHFNMy5odG1s.html" onclick="jilu(this)"
+                               title="我才不会被女孩子欺负呢"
+                               data-src="https://p.ssl.qhimg.com/d/dy_bfef46a556652696ea2a0965c9243987."><span
+                                        class="play hidden-xs"></span><span class="score">更新至18集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9SNGx0YjA3bFJ6WHFNMy5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_bfef46a556652696ea2a0965c9243987."
+                                                             onclick="jilu(this)">我才不会被女孩子欺负呢</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：蔡徐坤 卢洋洋 杨景诚 蒋毓玮 王咨越</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlJzYW43bFJ6WG5OWC5odG1s.html" onclick="jilu(this)"
+                               title="金牌投资人"
+                               data-src="https://p.ssl.qhimg.com/d/dy_2948c6bad092a3c3d2f6d5795be1d941.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">更新至22集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYlJzYW43bFJ6WG5OWC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_2948c6bad092a3c3d2f6d5795be1d941.jpg"
+                                                             onclick="jilu(this)">金牌投资人</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：杨旭文 张俪 陈龙 梁田 袁成杰</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFZxY0g3bFJ6NGxPSC5odG1s.html" onclick="jilu(this)"
+                               title="独孤天下"
+                               data-src="https://p.ssl.qhimg.com/d/dy_7caac972f84750007bdb9efe9ed3dc14."><span
+                                        class="play hidden-xs"></span><span class="score">55集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9QTFZxY0g3bFJ6NGxPSC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_7caac972f84750007bdb9efe9ed3dc14."
+                                                             onclick="jilu(this)">独孤天下</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：胡冰卿 张丹峰 安以轩 徐正溪 李依晓</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYkpxY0g3bFJ6WHNOWC5odG1s.html" onclick="jilu(this)"
+                               title="忽而今夏"
+                               data-src="https://p.ssl.qhimg.com/d/dy_7fe22e8e4e2dd0b2b608f90ba21455d6."><span
+                                        class="play hidden-xs"></span><span class="score">更新至12集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYkpxY0g3bFJ6WHNOWC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_7fe22e8e4e2dd0b2b608f90ba21455d6."
+                                                             onclick="jilu(this)">忽而今夏</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：白宇 卜冠今 吕鹏 张书维 杨玥</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYmx0YW43bFJ6NG9PSC5odG1s.html" onclick="jilu(this)"
+                               title="烈火如歌"
+                               data-src="https://p.ssl.qhimg.com/d/dy_d5791adf5c93e18d79ada3b46856195e."><span
+                                        class="play hidden-xs"></span><span class="score">52集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS90di9RYmx0YW43bFJ6NG9PSC5odG1s.html" data-src="https://p.ssl.qhimg.com/d/dy_d5791adf5c93e18d79ada3b46856195e."
+                                                             onclick="jilu(this)">烈火如歌</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">主演：周渝民 迪丽热巴 张彬彬 刘芮麟 龚蓓苾</div>
+                        </div>
+                                            <div class="hy-video-footer visible-xs clearfix">
+                        <a href="/tvlist/all/1.html" class="text-muted">查看更多 <i
+                                    class="icon iconfont icon-right pull-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--电视剧-->
+            <!--综艺-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <ul class="pull-right">
+                                                    <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/101/1.html" class="text-muted border-right">选秀</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/102/1.html" class="text-muted border-right">八卦</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/103/1.html" class="text-muted border-right">访谈</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/104/1.html" class="text-muted border-right">情感</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/105/1.html" class="text-muted border-right">生活</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/106/1.html" class="text-muted border-right">晚会</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/107/1.html" class="text-muted border-right">搞笑</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/zylist/108/1.html" class="text-muted border-right">音乐</a> /</li>
+                                                    <li class="active"><a href="/zylist/all/1.html" class="text-muted">更多<i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                    <h3 class="margin-0"><i class="icon iconfont icon-mallanimation text-color"></i>综艺</h3>
+                </div>
+                <div class="clearfix">
+                                            <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aYzVwYlhOeEFKYzNEei5odG1s.html"
+                               title="奔跑吧 第2季" data-src="https://p.ssl.qhimg.com/d/dy_48450de8a672534a16efd723d1433790.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-27期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aYzVwYlhOeEFKYzNEei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_48450de8a672534a16efd723d1433790.jpg">奔跑吧 第2季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第3期：跑男团冰雪运动会</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9Zc0VsY25OeEFKYzRFRC5odG1s.html"
+                               title="向往的生活 第二季" data-src="https://p.ssl.qhimg.com/d/dy_8c457fb83c9854058fd526af633284fc.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-28期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9Zc0VsY25OeEFKYzRFRC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_8c457fb83c9854058fd526af633284fc.jpg">向往的生活 第二季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第2期：张杰大秀俄文海豚音</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aTTVsYW5OdzcySTdFRC5odG1s.html"
+                               title="明星大侦探 第一季" data-src="https://p.ssl.qhimg.com/d/dy_ae0fe478eb44f8a96deafd51449e0a52.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2016-06-23期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aTTVsYW5OdzcySTdFRC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_ae0fe478eb44f8a96deafd51449e0a52.jpg">明星大侦探 第一季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">《明星大侦探》第一季颁奖典礼</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac1luYWFadjdKVTNEVC5odG1s.html"
+                               title="同趣大调查" data-src="https://p.ssl.qhimg.com/d/dy_c6cc7c3bfebeb58612b6d9ebdae33700.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2017-12-31期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac1luYWFadjdKVTNEVC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_c6cc7c3bfebeb58612b6d9ebdae33700.jpg">同趣大调查</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">极速飞车</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac0VvYjZKdjdKUTNEei5odG1s.html"
+                               title="快乐大本营" data-src="https://p.ssl.qhimg.com/t016ac3d4c9b6a0be35.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-29期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac0VvYjZKdjdKUTNEei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/t016ac3d4c9b6a0be35.jpg">快乐大本营</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">沈月于文文拍照大赛笑料不断</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aOElvY1hOeEFKYzVERC5odG1s.html"
+                               title="极限挑战 第四季" data-src="https://p.ssl.qhimg.com/d/dy_ed41aa837db90352f98e0e07daa2c68a."><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-29期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aOElvY1hOeEFKYzVERC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_ed41aa837db90352f98e0e07daa2c68a.">极限挑战 第四季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第1期：男人帮重返1978年</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aODVtYVhOeEFKZzJFRC5odG1s.html"
+                               title="拜托了冰箱 中国版 第4季" data-src="https://p.ssl.qhimg.com/d/dy_a8caa9e02956e8d006541497a79d676a.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-25期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aODVtYVhOeEFKZzJFRC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_a8caa9e02956e8d006541497a79d676a.jpg">拜托了冰箱 中国版 第4季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第1期：张杰曝谢娜孕期趣事</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9Zc0VrYm5OeEFKY0FGRC5odG1s.html"
+                               title="创造101" data-src="https://p.ssl.qhimg.com/d/dy_117edcfe9e8aae8bbba1dbc4fe5ef39b.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-28期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9Zc0VrYm5OeEFKY0FGRC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_117edcfe9e8aae8bbba1dbc4fe5ef39b.jpg">创造101</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第2期：主题曲二次评级分班</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hTWNxYVhOeEFKUTNFVC5odG1s.html"
+                               title="妈妈是超人 第三季" data-src="https://p.ssl.qhimg.com/d/dy_850677c44d5e656e7d06f7c6f0f1a1df.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-26期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hTWNxYVhOeEFKUTNFVC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_850677c44d5e656e7d06f7c6f0f1a1df.jpg">妈妈是超人 第三季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第5期：嗯哼嫌弃霍思燕厨艺？</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZODVuYm5OeDhwQUFEai5odG1s.html"
+                               title="明星大侦探 第三季" data-src="https://p.ssl.qhimg.com/d/dy_8fdd467c33252d862b13755ffa0000bb.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-01-26期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZODVuYm5OeDhwQUFEai5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_8fdd467c33252d862b13755ffa0000bb.jpg">明星大侦探 第三季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">13期：金条大劫案</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hY1FrYTNOeEEyTThFVC5odG1s.html"
+                               title="歌手 2018" data-src="https://p.ssl.qhimg.com/d/dy_64ed25b7028d4302bfa71bd343fc6e11."><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-20期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hY1FrYTNOeEEyTThFVC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_64ed25b7028d4302bfa71bd343fc6e11.">歌手 2018</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第14期:歌王Jessie J领衔开唱</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZYzVxYW5OeEFKYzNFai5odG1s.html"
+                               title="这！就是铁甲 第一季" data-src="https://p.ssl.qhimg.com/d/dy_fc369eaf29e61edfab75a44b2418e224."><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-27期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZYzVxYW5OeEFKYzNFai5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_fc369eaf29e61edfab75a44b2418e224.">这！就是铁甲 第一季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">郑爽套路张一山  吴尊遭连败陷淘汰危机</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZOFFvYVhOeEFKSTVFei5odG1s.html"
+                               title="这！就是街舞 第一季" data-src="https://p.ssl.qhimg.com/d/dy_ebea5c1d1cbb19f302f86f9dcb24ba74."><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-28期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZOFFvYVhOeEFKSTVFei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_ebea5c1d1cbb19f302f86f9dcb24ba74.">这！就是街舞 第一季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第10期：你等的黄景行终于来了！</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac01rYkhOeEFKUTZEei5odG1s.html"
+                               title="我是大侦探" data-src="https://p.ssl.qhimg.com/d/dy_eb3843f4841b14ad1178e057758baef7.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-29期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ac01rYkhOeEFKUTZEei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_eb3843f4841b14ad1178e057758baef7.jpg">我是大侦探</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第6期：“马大哈”母子相爱相杀</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZY0lxYktsdjdKUTNFei5odG1s.html"
+                               title="天天向上" data-src="https://p.ssl.qhimg.com/t014c70d4043684a33a.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-22期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZY0lxYktsdjdKUTNFei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/t014c70d4043684a33a.jpg">天天向上</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">张靓颖忆童年金句频出</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aOElyY25OeEFKSUNEai5odG1s.html"
+                               title="这！就是街舞顶配版 第一季" data-src="https://p.ssl.qhimg.com/d/dy_dab6ba44ff20d4c1ae63669239ea64cd."><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-24期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9aOElyY25OeEFKSUNEai5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_dab6ba44ff20d4c1ae63669239ea64cd.">这！就是街舞顶配版 第一季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">第9期：这期爱意太浓满到溢出来</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hY1VwYWFkdjdKTUFFRC5odG1s.html"
+                               title="爱情保卫战" data-src="https://p.ssl.qhimg.com/d/dy_4eb8c04f29fa077f0f9af72969996506.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-26期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9hY1VwYWFkdjdKTUFFRC5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_4eb8c04f29fa077f0f9af72969996506.jpg">爱情保卫战</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">两人异地太久缺乏信任 男女朋友为创业矛...</div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" onclick="jilu(this)" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZOEF0Y25OeEEyUTZFei5odG1s.html"
+                               title="偶像练习生" data-src="https://p.ssl.qhimg.com/d/dy_be71dbcfefabb5458185225a8108e12e.jpg"><span
+                                        class="play hidden-xs"></span><span class="score">2018-04-06期</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS92YS9ZOEF0Y25OeEEyUTZFei5odG1s.html" onclick="jilu(this)"
+                                                             data-src="https://p.ssl.qhimg.com/d/dy_be71dbcfefabb5458185225a8108e12e.jpg">偶像练习生</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs">9人团出道 导师练习生集体回归泪洒舞台</div>
+                        </div>
+                                            <div class="hy-video-footer visible-xs clearfix">
+                        <a href="/zylist/all/1.html" class="text-muted">查看更多 <i
+                                    class="icon iconfont icon-right pull-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--综艺-->
+            <!--动漫-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <ul class="pull-right">
+                                                    <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/100/1.html" class="text-muted border-right">热血</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/101/1.html" class="text-muted border-right">恋爱</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/102/1.html" class="text-muted border-right">美少女</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/103/1.html" class="text-muted border-right">运动</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/104/1.html" class="text-muted border-right">校园</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/105/1.html" class="text-muted border-right">搞笑</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/106/1.html" class="text-muted border-right">幻想</a> /</li>
+                                                                                <li class="text-muted hidden-md hidden-sm hidden-xs"><a href="/dmlist/107/1.html" class="text-muted border-right">冒险</a> /</li>
+                                                    <li class="active"><a href="/dmlist/all/1.html" class="text-muted">更多<i class="icon iconfont icon-right"></i></a></li>
+                    </ul>
+                    <h3 class="margin-0"><i class="icon iconfont icon-mallanimation text-color"></i>动漫</h3>
+                </div>
+                <div class="clearfix">
+                                            <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PVVBrYVo3a05ZN3ZEai5odG1s.html" title="斗罗大陆 第1季" data-src="https://p.ssl.qhimg.com/d/dy_695e41b4208ee7f19ee1c741bb703d3d." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至16集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PVVBrYVo3a05ZN3ZEai5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_695e41b4208ee7f19ee1c741bb703d3d."
+                                                             onclick="jilu(this)">斗罗大陆 第1季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa1BrYlo3a05JYTJDei5odG1s.html" title="欧布奥特曼 英雄传 国语" data-src="https://p.ssl.qhimg.com/d/dy_9d90224bb38afafd5f7a7075604eee59." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至17集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa1BrYlo3a05JYTJDei5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_9d90224bb38afafd5f7a7075604eee59."
+                                                             onclick="jilu(this)">欧布奥特曼 英雄传 国语</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa1hzYmNLa0xvTzJDVC5odG1s.html" title="粉红猪小妹(小猪佩奇)" data-src="https://p.ssl.qhimg.com/d/dy_7ef044e71f118046b1b44bb5a5cac589.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">156集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa1hzYmNLa0xvTzJDVC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_7ef044e71f118046b1b44bb5a5cac589.jpg"
+                                                             onclick="jilu(this)">粉红猪小妹(小猪佩奇)</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RazhzYVo3bExJT3ZDVC5odG1s.html" title="三只松鼠" data-src="https://p.ssl.qhimg.com/d/dy_3b081f92665bd9afa3c471141680fb22.jpeg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至26集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RazhzYVo3bExJT3ZDVC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_3b081f92665bd9afa3c471141680fb22.jpeg"
+                                                             onclick="jilu(this)">三只松鼠</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PVTRsY3A3bExJTzJDai5odG1s.html" title="全职高手特别篇" data-src="https://p.ssl.qhimg.com/d/dy_d0230f46554d009c2fa511f25dbbfbee." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至1集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PVTRsY3A3bExJTzJDai5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_d0230f46554d009c2fa511f25dbbfbee."
+                                                             onclick="jilu(this)">全职高手特别篇</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa0R0Yko3a05JYTJFRC5odG1s.html" title="妖神记 第二季" data-src="https://p.ssl.qhimg.com/d/dy_62196da7884207cf0d35b8aece17550d.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至33集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa0R0Yko3a05JYTJFRC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_62196da7884207cf0d35b8aece17550d.jpg"
+                                                             onclick="jilu(this)">妖神记 第二季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RVWJxYVo3bExJS3dFRC5odG1s.html" title="乐高幻影忍者第8季：加满都之子" data-src="https://p.ssl.qhimg.com/d/dy_b90d07f40a328d1375e10054d8c971a7." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至7集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RVWJxYVo3bExJS3dFRC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_b90d07f40a328d1375e10054d8c971a7."
+                                                             onclick="jilu(this)">乐高幻影忍者第8季：加满都之子</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa0x0YXA3a01JQ3ZDai5odG1s.html" title="汪汪队立大功全集" data-src="https://p.ssl.qhimg.com/d/dy_fc7282fed5941d526340232701fe46ee.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至141集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Qa0x0YXA3a01JQ3ZDai5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_fc7282fed5941d526340232701fe46ee.jpg"
+                                                             onclick="jilu(this)">汪汪队立大功全集</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PazhvYko3a05JSzNDai5odG1s.html" title="狐妖小红娘 南国篇" data-src="https://p.ssl.qhimg.com/t011da3fcee13b7a9ba.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至81集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PazhvYko3a05JSzNDai5odG1s.html" src="https://p.ssl.qhimg.com/t011da3fcee13b7a9ba.jpg"
+                                                             onclick="jilu(this)">狐妖小红娘 南国篇</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PMERuY01EYkxZQzJERC5odG1s.html" title="航海王" data-src="https://p.ssl.qhimg.com/d/dy_1cf688c4fd8403a25dc03e6b8ddad9b5.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至834集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PMERuY01EYkxZQzJERC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_1cf688c4fd8403a25dc03e6b8ddad9b5.jpg"
+                                                             onclick="jilu(this)">航海王</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa0xvYXA3bExJQ3hFRC5odG1s.html" title="睡衣小英雄" data-src="https://p.ssl.qhimg.com/d/dy_d7dc739e174f88ba2e8f69293f5a1a18." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至13集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa0xvYXA3bExJQ3hFRC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_d7dc739e174f88ba2e8f69293f5a1a18."
+                                                             onclick="jilu(this)">睡衣小英雄</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QVWJvYnA3a05ZV3lEai5odG1s.html" title="峡谷重案组 第二季" data-src="https://p.ssl.qhimg.com/d/dy_0aee8d74eb38d87090d79d05b1fdd62c.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至11集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QVWJvYnA3a05ZV3lEai5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_0aee8d74eb38d87090d79d05b1fdd62c.jpg"
+                                                             onclick="jilu(this)">峡谷重案组 第二季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Ra2ZzYk1HbExJS3lFRC5odG1s.html" title="马达加斯加的企鹅 第一季" data-src="https://p.ssl.qhimg.com/d/dy_cdbe215706aeec50b05882bcb7c22756.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">26集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Ra2ZzYk1HbExJS3lFRC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_cdbe215706aeec50b05882bcb7c22756.jpg"
+                                                             onclick="jilu(this)">马达加斯加的企鹅 第一季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QVVBvYko3a01ZenpDai5odG1s.html" title="米奇妙妙屋 第1季 中文版" data-src="https://p.ssl.qhimg.com/d/dy_11da9a4550ae04cfb015b18aad94e2b9.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">26集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QVVBvYko3a01ZenpDai5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_11da9a4550ae04cfb015b18aad94e2b9.jpg"
+                                                             onclick="jilu(this)">米奇妙妙屋 第1季 中文版</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QRTRtY0o3a05JMzNEei5odG1s.html" title="汪汪队立大功 第4季" data-src="https://p.ssl.qhimg.com/d/dy_27ae531523fd0a8053c5429a303a2a34.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至15集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9QRTRtY0o3a05JMzNEei5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_27ae531523fd0a8053c5429a303a2a34.jpg"
+                                                             onclick="jilu(this)">汪汪队立大功 第4季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RVWJrYmNMV0xZejNFRC5odG1s.html" title="火影忍者" data-src="https://p.ssl.qhimg.com/d/dy_1198c653eba8d0c1a97698d6b24fb28b.jpg" onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">720集全</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9RVWJrYmNMV0xZejNFRC5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_1198c653eba8d0c1a97698d6b24fb28b.jpg"
+                                                             onclick="jilu(this)">火影忍者</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PMDRvYlo3bExJRzBEei5odG1s.html" title="魔法×战士： 魔力纯心！" data-src="https://p.ssl.qhimg.com/d/dy_95625b29b452bfbad7d67713fbb2472f." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至4集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9PMDRvYlo3bExJRzBEei5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_95625b29b452bfbad7d67713fbb2472f."
+                                                             onclick="jilu(this)">魔法×战士： 魔力纯心！</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                            <a class="videopic lazy" href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa1B0YnA3a000QzBDei5odG1s.html" title="一人之下第二季" data-src="https://p.ssl.qhimg.com/d/dy_53343b46876f1d6254bee6640334272d." onclick="jilu(this)"><span class="play hidden-xs"></span><span class="score">更新至21集</span></a>
+                            <div class="title">
+                                <h5 class="text-overflow"><a href="/play/aHR0cHM6Ly93d3cuMzYwa2FuLmNvbS9jdC9Pa1B0YnA3a000QzBDei5odG1s.html" src="https://p.ssl.qhimg.com/d/dy_53343b46876f1d6254bee6640334272d."
+                                                             onclick="jilu(this)">一人之下第二季</a></h5>
+                            </div>
+                            <div class="subtitle text-muted text-muted text-overflow hidden-xs"></div>
+                        </div>
+                                            <div class="hy-video-footer visible-xs clearfix">
+                        <a href="/zylist/all/1.html" class="text-muted">查看更多 <i
+                                    class="icon iconfont icon-right pull-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--动漫-->
+            <div class="row" style="margin-top:10px"></div>
+            <div class="hy-layout clearfix">
+                <div class="hy-video-head">
+                    <h3 class="margin-0">友情链接</h3>
+                </div>
+                <div class="hy-footer-link">
+                    <div class="item clearfix">
+                        <ul class="clearfix">
+                                                                                                <a href="http://www.29148459.com" target="_blank">苍白影院</a>
+                                                                    <a href="http://www.baidu.com" target="_blank">百度</a>
+                                                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var swiper = new Swiper('.hy-slide', {
+            autoplay:true,
+            pagination: {
+                el: '.swiper-pagination',
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
+<div class="hy-gototop hidden-sm hidden-xs">
+    <ul class="item clearfix">
+        <li><a data-toggle="tooltip" data-placement="top" class="" href="javascript:scroll(0,0)" title="返回顶部"><i class="icon iconfont icon-uparrow"></i></a></li>
+    </ul>
+</div>
+<div class="tabbar visible-xs">
+    <a href="/" class="item ">
+        <i class="icon iconfont icon-home"></i>
+        <p class="text">首页</p>
+    </a>
+    <a href="/movielist/all/1.html" class="item ">
+        <i class="icon iconfont icon-film"></i>
+        <p class="text">电影</p>
+    </a><a href="/tvlist/all/1.html" class="item ">
+        <i class="icon iconfont icon-show"></i>
+        <p class="text">电视剧</p>
+    </a><a href="/dmlist/all/1.html" class="item ">
+        <i class="icon iconfont icon-mallanimation"></i>
+        <p class="text">动漫</p>
+    </a><a href="/zylist/all/1.html" class="item ">
+        <i class="icon iconfont icon-flag"></i>
+        <p class="text">综艺</p>
+    </a>
+</div>
+
+    <div class="container">
+    <div class="row">
+        <div class="hy-footer clearfix">
+            <p style="padding: 0 4px;text-align:center" class="container-fluid">
+                本站提供的最新电影和电视剧资源均系收集于各大视频网站,本站只提供web页面服务,并不提供影片资源存储,也不参与录制、上传<br/>
+                若本站收录的节目无意侵犯了贵司版权，请给网页底部邮箱地址来信,我们会及时处理和回复,谢谢。<br/>
+                管理员邮箱：admin@admin.com <br/>
+            <center><div></div></center>
+            <p>Copyright:<a href="#" target="_blank">ICP备00000010-苍白QQ29148459</a></p></p>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    $(function () {
+        $('#sousuo').click(function () {
+            var key = $('#ff-wd').val();
+            if (key != '' && key != null) {
+                window.location = '/search/' + key + '.html'
+            }
+        });
+
+        $('input').keyup(function () {
+            if (event.keyCode == 13) {
+                $("#sousuo").trigger("click");
+            }
+        });
+
+        $('.lazy').lazyload({
+            placeholder:"/public/static/wapian/images/loading.gif",
+            effect : "fadeIn", //渐现，show(直接显示),fadeIn(淡入),slideDown(下拉)
+            threshold : 180, //预加载，在图片距离屏幕180px时提前载入
+        });
+    })
+</script>
+<script>
+    function jilu(obj) {
+        var url = $(obj).attr('href');
+        var img = $(obj).attr('src');
+        var title = $(obj).attr('title');
+        $.ajax({
+            type: "get",
+            url: "/history",
+            dataType: "json",
+            data: {"url": url, "img": img, "title": title},
+            success: function () {
+
+            }
+        })
+    }
+</script>
+</html>
+";
