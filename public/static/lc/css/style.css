@@ -1,0 +1,49 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*****************************************************
+' 作者：夏末、夜微凉
+' Email:290990099@qq.com . QQ:290990099
+' 2014/6/20
+'****************************************************/
+
+/* css 重置 */
+body,div,ul,li,dl,dt,dd,h2,p{ font-family:"微软雅黑";}
+ul{list-style:none ;}
+img{border:none;}
+a{blr:expression(this.onFocus=this.blur());outline:none;}
+
+.bartop { height: 9px; background: url(../images/foot.png) repeat-x top center; position: relative; overflow: hidden; }
+.top-nav { width: 1000px; position: absolute; left: 50%; margin-left: -500px; z-index:99; }
+.top-nav ul li { float: left; margin-right: 32px; padding-top: 20px; }
+.top-nav ul li a { color: #FFFFFF; text-decoration: none; padding:0 5px 5px 5px; }
+.top-nav ul li  a:hover,.top-nav ul li.current a {border-bottom: 4px #FFFFFF solid; }
+
+.top-nav .mtime-logo { position: absolute; top: -9px; left:50%; margin-left: -105px; width: 210px; height: 52px; box-shadow: 0px 3px 3px rgba(0,0,0,0.3);border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; padding-top: 8px; background: #E5E5E5; }
+.top-nav .mtime-logo a { display: block; width: 136px; height: 43px; background: url(../images/foot.png) no-repeat 0 -10px; margin:0 auto; }
+
+.top-nav .curcity,.login {position: absolute; top: 15px; height: 29px; line-height: 29px; color: #FFFFFF; font-size: 14px; text-indent: 10px;border: 1px #CDE4EC solid; border-radius :3px; }
+.top-nav .curcity { right: 100px; width: 104px; background: url(../images/topbar_02.png) no-repeat 88px 3px; }
+.top-nav .login { right: 0px; }
+.top-nav .login-text,.login-icon { display: block;  float: left; }
+.top-nav .login-text { padding-right: 10px; }
+.top-nav .login-icon {width: 27px; height: 29px; border-left: 1px #CFCFD0 solid; background: url(../images/topbar_03.png) no-repeat center center;}
+
+.mtime-box { min-width: 1000px; height: 500px; position: relative; overflow: hidden; }
+.mtime-box .bd{ width:100% !important; }
+.mtime-box .bd li .m-width {width: 1022px; padding-top: 94px; margin:0 auto; overflow: hidden; }
+.mtime-box .bd li { width:100% !important; height: 500px; }
+.mtime-box .bd li a { display: block; background: url(../images/index_shadow.png) no-repeat 0 0; background-size: auto; padding: 11px 11px 0 11px; }
+
+.mtime-btn { width: 1022px; position: absolute; top: 200px; left: 50%; margin-left: -511px; }
+.mtime-btn a { display: block; width: 49px; height: 104px; position: absolute; top: 0; filter: alpha(opacity=40); -moz-opacity: 0.4; -khtml-opacity: 0.4; opacity: 0.4; }
+.mtime-btn a.prev { left: -30px; background: url(../images/foot.png) no-repeat -1822px -9px; } 
+.mtime-btn a.next { right: -30px; background: url(../images/foot.png) no-repeat right -9px; }
+
+.mtime-box .hd {position: absolute; top: 240px; right: 10px; }
+.mtime-box .hd ul li { width: 12px; height: 12px; border-radius :50%; text-indent: -9999px; margin-right: 20px; background: #A0A1A4; border: 1px #A0A1A4 solid; float: left; cursor: pointer; }
+.mtime-box .hd ul li.on { background:  #FFFFFF; }
+
+#content { width: 1022px; height: 230px; background: url(../images/index_shadow.png) no-repeat 0 -310px; margin:0 auto; }
+#content .i_content { width: 1000px; height: 35px; background: #FFFFFF; position: relative; margin: -35px auto 0 auto; }
+ 
